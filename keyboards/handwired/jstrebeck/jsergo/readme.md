@@ -1,8 +1,8 @@
 # jsergo
 
-![jsergo](imgur.com image replace me!)
+![jsergo](https://i.imgur.com/8TaS3Ll.jpg)
 
-*A short description of the keyboard/project*
+3D printed ergonomic 80% keyboard.
 
 * Keyboard Maintainer: [jstrebeck](https://github.com/jstrebeck)
 * Hardware Supported: Elite-Pi(RP2040)

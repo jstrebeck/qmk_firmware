@@ -1,12 +1,13 @@
 # js80
 
-![js80](imgur.com image replace me!)
+![js80](https://i.imgur.com/CU8z8RS.png)
 
-*A short description of the keyboard/project*
+80% keyboard with extra keys on the left hand side.
 
-* Keyboard Maintainer: [jstrebeck](https://github.com/jstrebeck)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+
+* Keyboard Maintainer: [jstrebeck](https://i.imgur.com/CU8z8RS.png)
+* Hardware Supported: Elite-Pi(RP2040)
+* Hardware Availability: [Elite-Pi](https://keeb.io/products/elite-pi-usb-c-pro-micro-replacement-rp2040)
 
 Make example for this keyboard (after setting up your build environment):
 
