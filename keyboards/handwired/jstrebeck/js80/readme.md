@@ -2,21 +2,20 @@
 
 ![js80](https://i.imgur.com/CU8z8RS.png)
 
-80% keyboard with extra keys on the left hand side.
+3D printed ergonomic 80% keyboard.
 
-
-* Keyboard Maintainer: [jstrebeck](https://i.imgur.com/CU8z8RS.png)
+* Keyboard Maintainer: [jstrebeck](https://github.com/jstrebeck)
 * Hardware Supported: Elite-Pi(RP2040)
 * Hardware Availability: [Elite-Pi](https://keeb.io/products/elite-pi-usb-c-pro-micro-replacement-rp2040)
 
 Make example for this keyboard (after setting up your build environment):
 
     make js80:default
-    qmk compile -kb handwired/js80 -km default 
+    qmk compile -kb handwired/jstrebeck/js80 -km default 
 
 Flashing example for this keyboard:
 
-    qmk flash -c -kb handwired/js80 -km default
+    qmk flash -c -kb handwired/jstrebeck/js80 -km default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
